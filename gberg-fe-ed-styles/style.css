@@ -1,0 +1,16 @@
+.wp-block-gutenberg-examples-example-02-stylesheets {
+    color: darkred;
+    background: #fcc;
+    border: 2px solid #c99;
+    padding: 20px;
+}
+
+.wp-block-gutenberg-examples-example-02-stylesheets.is-style-alt-1 {
+	border-color: tomato;
+}
+.wp-block-gutenberg-examples-example-02-stylesheets.is-style-alt-2 {
+	border-color: purple;
+}
+.wp-block-gutenberg-examples-example-02-stylesheets.is-style-alt-3 {
+	border-color: cyan;
+}
